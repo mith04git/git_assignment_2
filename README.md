@@ -2,7 +2,7 @@
 
 name:- mithilesh
 roll no.:- 2024bcs-021
-course:- software engineering - by branch-- by owner
+course:- software engineering - by branch-- by collaborator
 semester:- 4th
 
 
